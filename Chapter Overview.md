@@ -28,7 +28,7 @@ flowchart TD
 ## Chapters
 
 1. [External Configuration Management
-](01_external_configuration_management_.md)
+](Chapter 1: External Configuration Management.md)
 2. [Iterative Data Processing
 ](02_iterative_data_processing_.md)
 3. [API Data Fetcher
