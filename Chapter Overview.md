@@ -34,7 +34,7 @@ flowchart TD
 5. [API Data Fetcher
 ](https://github.com/iamazadak/gooru-api-new/blob/a405dc63993852b90f897bbd4400386ae9208312/Chapter%203%3A%20API%20Data%20Fetcher.md)
 6. [Excel Report Generator
-](04_excel_report_generator_.md)
+](https://github.com/iamazadak/gooru-api-new/blob/16ea85d77308bc8b79dbb7de8010d82bfdeee321/Chapter%204%3A%20Excel%20Report%20Generator.md)
 7. [Operational Monitoring & Reporting
 ](05_operational_monitoring___reporting_.md)
 
