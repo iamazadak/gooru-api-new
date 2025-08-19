@@ -28,7 +28,7 @@ flowchart TD
 ## Chapters
 
 1. [External Configuration Management
-](Chapter)
+]([https://github.com/sunder122/gooru-api-new/blob/9465409972ceaea5f430ed90d1839acf8f9e5b94/Chapter%201%3A%20External%20Configuration%20Management.md]
 2. [Iterative Data Processing
 ](02_iterative_data_processing_.md)
 3. [API Data Fetcher
