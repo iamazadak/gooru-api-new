@@ -1,4 +1,4 @@
-# Tutorial: gooru-api-new
+# Tutorial: gooru-api
 
 This project is like an automated assistant that helps teachers and administrators track student engagement. It **automatically fetches** *timespent data* for specific classes from the Gooru API and then neatly organizes all this information into an **easy-to-read Excel spreadsheet**, providing a clear overview of how students are spending time on assignments and reporting on the overall process status.
 
