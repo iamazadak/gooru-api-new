@@ -32,7 +32,7 @@ flowchart TD
 3. [Iterative Data Processing
 ](https://github.com/iamazadak/gooru-api-new/blob/26b1e6d0334dd82867373c28e24e863484195ef4/Chapter%202%3A%20Iterative%20Data%20Processing.md)
 5. [API Data Fetcher
-](03_api_data_fetcher_.md)
+](https://github.com/iamazadak/gooru-api-new/blob/a405dc63993852b90f897bbd4400386ae9208312/Chapter%203%3A%20API%20Data%20Fetcher.md)
 6. [Excel Report Generator
 ](04_excel_report_generator_.md)
 7. [Operational Monitoring & Reporting
